@@ -721,4 +721,3 @@ index b8928083..1d10f939 100644
 +    cereal::cereal
      ${OPENMVG_LIBRARY_DEPENDENCIES}
  )
- 
